@@ -1,0 +1,7 @@
+quest
+{
+  kq_version = "1.0",
+  write_dir = "kq",
+  title_bar = "Kirp's Quest",
+}
+
